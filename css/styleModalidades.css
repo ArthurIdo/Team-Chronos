@@ -1,0 +1,57 @@
+.modalidadesTextos{
+    font-size: 27px;
+}
+
+.modalidadesTextos h3{
+    color: orange;
+}
+
+.modalidadesTextos p{
+    font-size: larger;
+
+}
+
+.imagens img{
+    border-color: rgb(21, 140, 219);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+    justify-content: center;
+    width: 450px;
+}
+
+.titulo{
+    font-weight: 600;
+}
+
+.imagens img:hover{
+    filter: none;
+    transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+}
+
+.imagens img{
+    object-fit: cover;
+    transition: 1s;
+    cursor: pointer;
+}
+
+/* distanciamento dos elementos section/footers */
+.elemento1{
+    padding-top: 30px;
+}
+
+.elemento2{
+    padding-top: 30px;
+}
+
+.elemento3{
+    padding-top: 30px;
+}
+
+.elemento4{
+    padding-top: 30px;
+}
+
+

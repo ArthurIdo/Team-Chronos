@@ -1,0 +1,42 @@
+.rodape-links, a{
+    color: rgb(255, 255, 255);
+    
+}
+.rodape-links, a:hover{
+    
+    color: #ffa500;
+}
+
+.rodape-links, a:link{
+    text-decoration:none;
+}
+
+.bg-blue {
+    background-color: rgb(21, 140, 219);
+}
+
+.rodape-titulos, h4{
+    color: darkorange;
+    font-weight: bold;
+}
+
+.rodape{
+    height: 35vh;
+}
+
+.navbar-links{
+    font-size: 1.2em;
+    color: lightgrey;
+    
+}
+.rodape-links{
+    font-size: 1.2em;
+    color:white;
+}
+
+.rodape-titulos{
+    font-size: 1.7em;
+}
+.navbar-links:hover{
+    color: darkorange;
+}

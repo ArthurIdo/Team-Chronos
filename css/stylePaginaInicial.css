@@ -1,0 +1,131 @@
+
+.banner{
+    display: flex;
+    justify-content: center;
+    height: 35vh;
+    width: 100%;
+    color: white;
+    background-image: url("../img/img-fundo.jpg");
+}
+
+.banner-h5{
+    color: white;
+    font-size: 5.5em;
+    font-weight:bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner-h1{
+    font-size: 2.5em;
+    color: white;
+    font-weight:bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 5vh;
+    width: 100%;
+}
+
+.banner2{
+    display: flex;
+    justify-content: center;
+    height: 65vh;
+    width: 100%;
+    background-image: url("../img/img-fundo.jpg");
+    text-align: center;
+    color: orange;
+}
+
+.texto2 h1{
+    color: orange;
+}
+
+.texto2 p{
+    color: white;
+}
+
+.imagens img{
+    border-color: orange;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.text-robo h1{
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+}
+
+.robo img{
+    position: absolute;
+    top:1150px;left:720px
+}
+
+.fotos h1{
+    font-weight:bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imagens img:hover{
+    filter: none;
+    transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+}
+
+.imagens img{
+    filter: grayscale(1);
+    object-fit: cover;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.sobreEquipe h1{
+    font-size: 3.0em;
+}
+
+.tituloSobre{
+    color: orange;
+}
+
+.sobreEquipe h4{
+    font-size: 2.2em;
+}
+
+.equipe{
+    color: rgb(21, 140, 219);
+}
+
+.htres a{
+    color: black;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.conteudo-texto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 400;
+}
+
+/* distanciamento dos elementos section/footers */
+.elemento1{
+    padding-top: 30px;
+}
+
+.elemento2{
+    padding-top: 30px;
+}
+
+.elemento3{
+    padding-top: 30px;
+}
+
+.elemento4{
+    padding-top: 30px;
+}
+
+.elemento5{
+    padding-top: 30px;
+}
+

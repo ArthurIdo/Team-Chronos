@@ -1,0 +1,29 @@
+.textos{
+    font-size: 20px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.textos h3{
+    color: orange;
+}
+
+.textos p{
+    font-size: larger;
+}
+
+.titulo{
+    font-weight: 600;
+}
+
+.imagens img{
+    border-color: rgb(21, 140, 219);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+
+
+
